@@ -1,0 +1,8 @@
+QUestion 1
+
+steps for createing git repo on git hub
+1. login on git hub
+2. click on new repo 
+3.enter the prn number where we need to put the name of the repo
+4.click on create
+4.the repo is created and and SHH link is https://github.com/kretoos/210940120089.git
